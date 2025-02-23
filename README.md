@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-(https://vscode.dev/github/pjontop/pjontop/blob/main/profileBanner.png)
+![pjontopBanner](https://vscode.dev/github/pjontop/pjontop/blob/main/profileBanner.png)
 
 - 🔭 I’m currently working on an AI healthcare unifying system.
 - 🌱 I’m currently learning C++
