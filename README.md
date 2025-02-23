@@ -1,16 +1,18 @@
 ## Hi there 👋
 
-<!--
-**pjontop/pjontop** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+(https://vscode.dev/github/pjontop/pjontop/blob/main/profileBanner.png)
 
-Here are some ideas to get you started:
+- 🔭 I’m currently working on an AI healthcare unifying system.
+- 🌱 I’m currently learning C++
+- 👯 I’m looking to collaborate on .
+- 🤔 I’m looking for help with java 🙁
+- 💬 Ask me about anything web related.
+- 📫 How to reach me: [Email](mailto:pjsontop@icloud.com)
+- 😄 Pronouns: for/the/huzz
+- ⚡ Fun fact: I love hiking and exploring new places.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Skills
+
+- **Languages**: HTML, CSS, Python, C
+- **Frameworks**: React, Node.js, Express
+- **Tools**: Git, Docker, Firebase
