@@ -7,6 +7,9 @@
   <img src="https://profile-counter.glitch.me/pjontop/count.svg" />
 </p>
 
+## About Me
+I'm a passionate learner with interests in science, math, and technology. I enjoy solving problems, working on creative projects, and exploring new concepts in coding and design.
+
 - 🔭 I’m currently working on an AI healthcare unifying system.
 - 🌱 I’m currently learning C++
 - 👯 I’m looking to collaborate on .
